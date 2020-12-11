@@ -10,6 +10,15 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+# Subfolders
+text101/[Ll]ibrary/
+text101/[Tt]emp/
+text101/[Oo]bj/
+text101/[Bb]uild/
+text101/[Bb]uilds/
+text101/[Ll]ogs/
+text101/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
