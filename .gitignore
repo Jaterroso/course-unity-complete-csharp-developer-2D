@@ -43,6 +43,14 @@ block-breaker/[Bb]uilds/
 block-breaker/[Ll]ogs/
 block-breaker/[Mm]emoryCaptures/
 
+laser-defender/[Ll]ibrary/
+laser-defender/[Tt]emp/
+laser-defender/[Oo]bj/
+laser-defender/[Bb]uild/
+laser-defender/[Bb]uilds/
+laser-defender/[Ll]ogs/
+laser-defender/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
