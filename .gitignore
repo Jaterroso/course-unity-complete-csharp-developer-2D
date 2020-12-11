@@ -35,6 +35,14 @@ number-wizard-ui/[Bb]uilds/
 number-wizard-ui/[Ll]ogs/
 number-wizard-ui/[Mm]emoryCaptures/
 
+block-breaker/[Ll]ibrary/
+block-breaker/[Tt]emp/
+block-breaker/[Oo]bj/
+block-breaker/[Bb]uild/
+block-breaker/[Bb]uilds/
+block-breaker/[Ll]ogs/
+block-breaker/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
