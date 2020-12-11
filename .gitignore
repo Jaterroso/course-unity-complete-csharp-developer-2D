@@ -51,6 +51,14 @@ laser-defender/[Bb]uilds/
 laser-defender/[Ll]ogs/
 laser-defender/[Mm]emoryCaptures/
 
+glitch-garden/[Ll]ibrary/
+glitch-garden/[Tt]emp/
+glitch-garden/[Oo]bj/
+glitch-garden/[Bb]uild/
+glitch-garden/[Bb]uilds/
+glitch-garden/[Ll]ogs/
+glitch-garden/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
