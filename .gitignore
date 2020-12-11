@@ -59,6 +59,14 @@ glitch-garden/[Bb]uilds/
 glitch-garden/[Ll]ogs/
 glitch-garden/[Mm]emoryCaptures/
 
+tilevania/[Ll]ibrary/
+tilevania/[Tt]emp/
+tilevania/[Oo]bj/
+tilevania/[Bb]uild/
+tilevania/[Bb]uilds/
+tilevania/[Ll]ogs/
+tilevania/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
