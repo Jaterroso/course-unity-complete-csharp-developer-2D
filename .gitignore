@@ -27,6 +27,13 @@ number-wizard-console/[Bb]uilds/
 number-wizard-console/[Ll]ogs/
 number-wizard-console/[Mm]emoryCaptures/
 
+number-wizard-ui/[Ll]ibrary/
+number-wizard-ui/[Tt]emp/
+number-wizard-ui/[Oo]bj/
+number-wizard-ui/[Bb]uild/
+number-wizard-ui/[Bb]uilds/
+number-wizard-ui/[Ll]ogs/
+number-wizard-ui/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
