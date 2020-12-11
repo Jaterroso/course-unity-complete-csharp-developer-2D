@@ -19,6 +19,15 @@ text101/[Bb]uilds/
 text101/[Ll]ogs/
 text101/[Mm]emoryCaptures/
 
+number-wizard-console/[Ll]ibrary/
+number-wizard-console/[Tt]emp/
+number-wizard-console/[Oo]bj/
+number-wizard-console/[Bb]uild/
+number-wizard-console/[Bb]uilds/
+number-wizard-console/[Ll]ogs/
+number-wizard-console/[Mm]emoryCaptures/
+
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
